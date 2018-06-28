@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Jon's Network Hello World"
 date: 2018-06-27
 ---
 
