@@ -1,0 +1,23 @@
+A list of books I've read and links to my reviews when the exist.  The reviews link to others' reviews too.]
+
+* Amsterdam, A History of the World's Most Liberal City
+* Anne Frank, The Diary of a Young Girl
+* Brother's Karamazov
+* Catcher in the Rye
+* Class: A Guide through the American Status System
+* Early Retirement Extreme: A Philosophical and Practical Guide to Financial Independence
+* Guns, Germs and Steel
+* Herodotus Histories 
+* History of the Pelopponesian War 
+* Hunger Games
+* The Iliad
+* Man's Search for Meaning
+* NMAP Network Scanning
+* The Odyssey 
+* One Flew Over the Cuckoo's Nest
+* Ready Player One
+* Spent: Sex, Evolution and Human Behavior
+* Threat Modeling: Designing for Security
+* A Universe from Nothing: Why there is Something Rather than Nothing
+* The World of the Shining Prince: Courlife in Ancient Heian Japan
+* War and Peace
